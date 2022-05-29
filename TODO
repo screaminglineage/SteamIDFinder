@@ -1,3 +1,2 @@
-Add proper comments
-Clean up the code more
+Make it so that if the user sends a full steam profile URL, the same is sent back
 Add proper README
